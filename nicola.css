@@ -1,0 +1,59 @@
+body{
+    margin:0%;
+    padding: 0%;
+    
+}
+.cabecalho{
+    width: 1950x;
+    height: 82px;
+    background-color: #000000;
+    text-align: center;
+}
+.stranger{
+    width: 320px;
+    height: 80px;
+    
+}
+.comeco{
+    display: flex;
+    margin-top: 30px;
+    padding: 50px;
+    gap: 50px;
+    justify-content: center;
+}
+.card{
+    width: 541px;
+    height: 544px;
+    text-align: center;
+    background: #D9D9D9;
+    
+}
+.meninos{
+    width: 455px;
+    height: 216px;
+    margin-top: 20px;
+}
+.card1{
+    width: 541px;
+    height: 544px;
+    text-align: center;
+    background: #D9D9D9;
+}
+.meninos1{
+    width: 455px;
+    height: 216px;
+    margin-top: 20px;
+
+}
+p{
+    font-size: 24px;
+    padding: 10px;
+}
+button{
+    width: 171px;
+    height: 41px;
+    font-size: 20px;
+}
+.fim{
+    text-align: center;
+}
